@@ -3,6 +3,10 @@
     background-image: url('estacionamento.jpg');
 }
 
+body{
+    background-color: black;
+}
+
 .container{
     width: 320px;
     height: 400px;
