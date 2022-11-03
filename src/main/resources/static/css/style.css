@@ -1,0 +1,42 @@
+
+.imagen{
+    background-image: url('estacionamento.jpg');
+}
+
+.container{
+    width: 320px;
+    height: 400px;
+    margin-top: 130px;
+    background-color:#0d4e6a;
+    border-radius: 5px;
+    
+}
+.container input{
+    margin-top: 10px;
+}
+.container label{
+    margin-top: 10px;
+    color: white;
+}
+.container button{
+    margin-top: 20px;
+    width: 296px;
+    border-radius: 5px;
+    border: none;
+}
+.form-group h4{
+    color: white;
+    padding: 5px;
+    text-align: center;
+}
+
+.data{
+    margin-top: 20px;
+    color: white;
+}
+.relogio{
+    text-align: center;
+    margin-top: 5px;
+    font-size: 20px;
+    color: white;
+}
